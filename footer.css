@@ -1,0 +1,26 @@
+
+#footer{
+    background-color: whitesmoke;
+    margin-top: -10px;
+    height: 100px;
+}
+.fot{
+    color: black;
+    float: right;
+    font-size: 1.3em;
+    margin-left: 20px;
+    margin-right: 45px;
+    margin-top: 35px;
+    font-family: serif, Arial, "Times New Roman";
+}
+#dolna{
+    margin-top: 690px;
+    color: black;
+    height: 2px;
+    background-color: black;
+}
+h1{
+    display: inline-block;
+    margin: 25px;
+    color: black;
+}

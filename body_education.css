@@ -1,0 +1,32 @@
+#body{
+    background-color: lightseagreen;
+    height: 800px;
+}
+#pic{
+    display: inline-block;
+    float: left;
+    margin-top: 170px;
+    margin-left: 200px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+}
+#pole{
+    height: 250px;
+    width: 700px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    float: right;
+    margin-top: 300px;
+    margin-right: 380px;
+}
+#para{
+    font-size: 1.5em;
+    padding: 30px;
+    margin-top: -5px;
+    font-family: serif, Arial, "Times New Roman";
+    text-align: justify;
+}

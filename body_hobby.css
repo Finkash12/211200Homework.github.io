@@ -1,0 +1,25 @@
+#bbbb{
+    height: 800px;
+    background-image: url("src/dots.jpg");
+    background-repeat: repeat-x;
+
+}
+#sl{
+    display: inline-block;
+    background-color: black;
+    height: 200px;
+    width: 550px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: lightseagreen;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+#pony{
+    color: white;
+    font-size: 1.3em;
+    text-align: justify;
+    margin-top: -3px;
+    padding: 30px;
+    font-family: serif, Arial, "Times New Roman";
+}
